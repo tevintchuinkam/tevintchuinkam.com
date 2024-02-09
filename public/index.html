@@ -34,19 +34,13 @@
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             
-            try {
-                var d = document.documentElement
-                    , c = d.classList;
-                var e = localStorage.getItem('theme');
-                if (!e || e === 'light') {
-                    d.style.colorScheme = 'light';
-                    c.add('light');
-                } else {
-                    d.style.colorScheme = 'dark';
-                    c.add('dark');
-                }
-            } catch (e) { }
-
+            {
+                {
+}
+            }
+            var d = document.documentElement
+                , c = d.classList;
+            c.add('dark');
             
             document.getElementById('theme-toggle').addEventListener('click', function () {
                 try {

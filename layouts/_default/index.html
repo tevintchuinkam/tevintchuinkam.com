@@ -38,7 +38,8 @@
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             // Set the theme based on system preference or stored theme
-            try {
+            {
+                {/*  try {
                 var d = document.documentElement
                     , c = d.classList;
                 var e = localStorage.getItem('theme');
@@ -49,8 +50,11 @@
                     d.style.colorScheme = 'dark';
                     c.add('dark');
                 }
-            } catch (e) { }
-
+            } catch (e) { }  */}
+            }
+            var d = document.documentElement
+                , c = d.classList;
+            c.add('dark');
             // Toggle the theme when the button is clicked
             document.getElementById('theme-toggle').addEventListener('click', function () {
                 try {
