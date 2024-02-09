@@ -1,14 +1,8 @@
 +++
-title = 'Projects'
-date = 2024-02-08T18:22:36+01:00
-draft = false
-tags = ['projects', 'tech']
+title = 'Things I have made'
+date = 2024-02-09T14:34:11+01:00
+description = 'I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of.'
 +++
 
-## This is one of my projects
-
-Here is why I built it:
-
-- cool idea
-- there was a need
-- new tech to learn
+- keepyourstory.com
+- gcal.io
