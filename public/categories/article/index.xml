@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Tevin Tchuinkam</title>
+	<link>https://tevintchuinkam.com/categories/article/</link>
+	<description>Recent content in article on Tevin Tchuinkam</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Fri, 09 Feb 2024 15:59:25 +0100</lastBuildDate>
+    
+        <atom:link href="https://tevintchuinkam.com/categories/article/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Malaysia</title>
+		<link>https://tevintchuinkam.com/articles/malaysia/</link>
+		<pubDate>Fri, 09 Feb 2024 15:59:25 +0100</pubDate>
+		
+		<guid>https://tevintchuinkam.com/articles/malaysia/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>Things I have made</title>
+		<link>https://tevintchuinkam.com/projects/</link>
+		<pubDate>Fri, 09 Feb 2024 14:34:11 +0100</pubDate>
+		
+		<guid>https://tevintchuinkam.com/projects/</guid>
+		<description>&lt;ul&gt;
+&lt;li&gt;keepyourstory.com&lt;/li&gt;
+&lt;li&gt;gcal.io&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About Me</title>
+		<link>https://tevintchuinkam.com/aboutme/</link>
+		<pubDate>Thu, 08 Feb 2024 18:28:08 +0100</pubDate>
+		
+		<guid>https://tevintchuinkam.com/aboutme/</guid>
+		<description>&lt;h2 id=&#34;this-is-some-stuff-about-me&#34;&gt;This is some stuff about me&lt;/h2&gt;
+&lt;p&gt;Somewhere over the rainbow&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
